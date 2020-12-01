@@ -1,7 +1,5 @@
 Chenwei Wu
-cwu59
-CSC242 PROJECT I
-Collaborators: Yi Yao yyao20 Haosong Rao hrao
+
 3X3:
 State Class: representing 3*3 board.
 the evalu method is to check whether some player has won the game with four for loops for vertical,horizontal and diagonal.
